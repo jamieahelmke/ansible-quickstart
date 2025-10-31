@@ -13,7 +13,7 @@ REQUIRED_PATHS = [
     "requirements.txt",
     "start_venv.sh",
 ]
-VENV_DIR = "env/venv"
+VENV_DIR = ".venv"
 COLLECTIONS_DIR = "ansible/lib/collections"
 
 # --- Helper functions ---

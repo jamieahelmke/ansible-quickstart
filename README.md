@@ -9,7 +9,7 @@ A self-contained Ansible workspace for MacOS, Linux and other posix compliant sy
 
 ## Requirements
 
-git, python3, pip3
+git, python3, python3-pip, python3-venv
 
 ## Setup
 
